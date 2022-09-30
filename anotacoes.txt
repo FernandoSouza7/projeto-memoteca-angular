@@ -1,0 +1,2 @@
+Primeiro baixar o angular cli(procurar na documentação)
+Para criar o projeto ng new nomeDoProgeto

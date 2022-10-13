@@ -1,2 +1,4 @@
-Primeiro baixar o angular cli(procurar na documentação)
+Primeiro baixar o angular cli npm -i g @angular/cli
 Para criar o projeto ng new nomeDoProgeto
+Para iniciar o projeto ng serve
+Para criar componentes ng generate component caminho/nome
